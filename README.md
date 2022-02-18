@@ -1,2 +1,2 @@
 # KaikoExercises
-Set of exercises, private
+Set of exercises on kaiko
